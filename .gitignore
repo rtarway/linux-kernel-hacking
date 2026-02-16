@@ -2,8 +2,7 @@
 .DS_Store
 
 # Kernel Source (Large, separate repo)
-linux/
-
+# linux/ (Now a submodule)
 # Object files
 *.o
 *.ko
