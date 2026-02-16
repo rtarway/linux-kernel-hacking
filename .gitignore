@@ -1,0 +1,33 @@
+# MacOS
+.DS_Store
+
+# Kernel Source (Large, separate repo)
+linux/
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Kernel Build Artifacts
+*.mod.c
+*.mod
+*.a
+modules.order
+Module.symvers
+*.cmd
+
+# Rootfs and Archives
+initramfs.cpio.gz
+*.cpio
+*.tar.gz
+
+# Binaries
+vmlinux
+bzImage
+src/hello-hacker/hello (if any)
+
+# Lab artifacts
+lab/rootfs/
+local_busybox
