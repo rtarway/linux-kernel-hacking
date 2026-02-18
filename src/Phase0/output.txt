@@ -1,0 +1,3 @@
+This is a 
+File is open! Run 'lsof -p 71035' in another terminal.
+Press Enter to continue...

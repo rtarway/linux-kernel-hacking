@@ -1,0 +1,1 @@
+This is a sample text file to test the read syscall. It has more than 10 bytes.

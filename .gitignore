@@ -30,3 +30,5 @@ src/hello-hacker/hello (if any)
 # Lab artifacts
 lab/rootfs/
 local_busybox
+
+bin/
